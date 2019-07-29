@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PiccasoGalleryExample</string>
+    <string name="menu_option3">Stored Images From Device Memory</string>
+    <string name="menu_option2">Drawables From Project</string>
+    <string name="menu_option1">Kemonomimi Anime Girls From Web</string>
+
+    <string name="permission_denied_message">You haven\'t accept permissions</string>
+
+</resources>

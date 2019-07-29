@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PiccasoGalleryEjemplo</string>
+    <string name="menu_option3">Imágenes de la Memoria del dispositivo</string>
+    <string name="menu_option2">Imágenes del proyecto</string>
+    <string name="menu_option1">Kemonomimi Anime de la Web</string>
+
+    <string name="permission_denied_message">No has aceptado los permisos</string>
+
+</resources>
