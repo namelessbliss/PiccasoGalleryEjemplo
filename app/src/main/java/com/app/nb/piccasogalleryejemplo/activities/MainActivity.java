@@ -65,7 +65,7 @@ public class MainActivity extends AppCompatActivity {
         recyclerView.setLayoutManager(layoutManager);
 
 
-        recyclerView.setAdapter(imageAdapter);
+        recyclerView.setAdapter(animeGirlAdapter);
     }
 
     @Override
